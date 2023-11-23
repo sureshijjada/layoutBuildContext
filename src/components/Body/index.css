@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.body-container {
+  min-height: 50vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.left-container {
+  min-height: 50vh;
+  width: 20vw;
+  padding: 5px;
+  text-align: left;
+  background-color: azure;
+}
+.left-navbar {
+  font-size: 15px;
+  color: darkolivegreen;
+  font-weight: bold;
+}
+.left-text {
+  font-size: 13px;
+  color: darkgray;
+  font-weight: 800;
+}
+.content-container {
+  min-height: 50vh;
+  min-width: 50vw;
+  padding: 5px;
+  text-align: left;
+  background-color: lightgray;
+}
+.content-heading {
+  font-size: 15px;
+  color: darkorchid;
+  font-weight: bold;
+}
+.content-text {
+  font-size: 15px;
+  font-weight: 600;
+  color: black;
+}
+.div {
+  height: 50px;
+  width: 100px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.text {
+  font-size: 15px;
+  color: coral;
+  font-weight: bold;
+}

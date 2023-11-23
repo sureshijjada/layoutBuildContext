@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.configContainer {
+  height: 200px;
+  width: 100vw;
+  padding: 10px;
+  background-color: blueviolet;
+  text-align: left;
+}
+
+.configHedding {
+  font-size: 25px;
+  color: white;
+  font-weight: 600;
+}
+.config-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.label {
+  font-size: 15px;
+  color: white;
+  font-weight: 500;
+  font-family: 'Roboto';
+}

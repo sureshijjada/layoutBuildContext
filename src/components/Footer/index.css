@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.header {
+  height: 80px;
+  width: 90vw;
+  padding: 10px;
+  background-color: aquamarine;
+}
+.header-hedding {
+  font-size: 30px;
+  font-weight: bold;
+  color: brown;
+}
